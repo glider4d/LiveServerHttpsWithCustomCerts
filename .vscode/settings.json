@@ -4,8 +4,8 @@
     "liveServer.settings.CustomBrowser": "chrome",
     "liveServer.settings.https": {
         "enable": true,
-        "cert": ".\\https\\localhost_cert.pem",
-        "key": ".\\https\\localhost_key.pem",
+        "cert": "D:\\repo\\webview\\reactLes\\vanillaJS\\https\\localhost_cert.pem",//there must be absolutely path
+        "key": "D:\\repo\\webview\\reactLes\\vanillaJS\\https\\localhost_key.pem",
         "passphrase": "1234"
     }
 }
